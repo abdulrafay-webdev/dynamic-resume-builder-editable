@@ -113,7 +113,7 @@ export const A4 = () => {
             {step === 1 && (
               <div>
                 <h2 className="text-2xl font-semibold mb-6">
-                  Personal Information
+                  Personal Information:{edit}
                 </h2>
                 <div className="mb-4">
                   <label className="block text-gray-700">Name</label>
